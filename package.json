@@ -1,5 +1,5 @@
 {
-  "name": "generic-pool",
+  "name": "runsa-generic-pool",
   "description": "Generic resource pooling for Node.JS",
   "version": "3.7.1",
   "author": "James Cooper <james@bitmechanic.com>",
