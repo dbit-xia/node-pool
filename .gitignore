@@ -3,3 +3,4 @@ node-pool.iml
 node-pool.tmproj
 node_modules
 .idea
+package-lock.json
